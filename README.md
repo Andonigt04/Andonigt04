@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi my name is Andoni.<br>I am a Full Stack Web Developer and Systems/Network Technician with a strong foundation in Java, Javascipt, Node.js, PHP, Laravel, VueJS and SQL databases (MySQL, PostgreSQL). I am currently specializing in Cybersecurity to ensure that the digital transformations I lead are secure and resilient.</p>
+<p align="left">My name is Andoni.<br>I am a Full Stack Web Developer and Systems/Network Technician with a strong foundation in Java, Javascipt, Node.js, PHP, Laravel, VueJS and SQL databases (MySQL, PostgreSQL). I am currently specializing in Cybersecurity to ensure that the digital transformations I lead are secure and resilient.</p>
 
 ###
 
