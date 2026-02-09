@@ -1,4 +1,4 @@
-<h1 align="left">Who i am?</h1>
+<h1 align="left">Who I am?</h1>
 
 ###
 
