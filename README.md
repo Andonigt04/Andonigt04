@@ -10,9 +10,40 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Cybersecurity in IT environments at CIFP Txurdinaga.<br>🎯 Goals: Mastering digital transformation, cloud computing, homelab and game development.<br><br>Here is a more grounded, "humble" version of your GitHub profile content that focuses on your learning journey while still highlighting your technical skills.<br><br>📈 Featured Project: Inventory-API<br><br>A project where for practicing how to build a more reliable backend.<br><br>Tidier Code: Experimenting with the Repository Pattern to keep the business logic and the database from getting too tangled up.<br><br>Flexible Database: It can use either SQLite or PostgreSQL; I wanted to see how Prisma adapters handle switching between local dev and "real" or production environment.<br><br>Keeping an Eye on Things: Added a simple health check and a status dashboard  because I like seeing exactly what my server is doing in real-time.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Cybersecurity in IT environments at CIFP Txurdinaga.<br>🎯 Goals: Mastering digital transformation, cloud computing, homelab and game development.<br><br>Here is a more grounded, "humble" version of your GitHub profile content that focuses on your learning journey while still highlighting your technical skills.
 
-###
+<h2 align="left">📁 Proyectos Destacados</h2>
+
+#### [Inventory-API](https://github.com/Andonigt04/inventory-api) 🛠️
+Un backend diseñado para practicar la fiabilidad y arquitectura limpia.
+* **Repository Pattern:** Separación clara de lógica de negocio y base de datos.
+* **Multi-DB:** Soporte para SQLite y PostgreSQL mediante adaptadores de Prisma.
+* **Health Dashboard:** Sistema de monitorización en tiempo real para el estado del servidor.
+
+#### [Araialdea Lanean](https://github.com/Andonigt04/araialdea-lanean) 🏢
+Proyecto desarrollado durante mi etapa de prácticas profesionales.
+* **Entorno Real:** Aplicación de metodologías Full Stack para resolver necesidades específicas de la empresa.
+* **Tecnologías:** Implementación eficiente de lógica de servidor y gestión de datos.
+* **Impacto:** Código enfocado a la mantenibilidad y escalabilidad en un entorno de producción.
+
+#### [Haruka Engine](https://github.com/Andonigt04/Haruka-Engine) ✈️
+Mi motor gráfico personal en C++ y OpenGL.
+* **High Precision:** Uso de `dvec3` para escalas planetarias sin pérdida de precisión.
+* **Graphics:** Implementación de Deferred Shading, PBR, IBL y SSAO.
+
+<h2 align="left">🛠️ Mi Stack Tecnológico</h2>
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | JavaScript, Vue.js, Svelte, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Laravel (PHP), Node.js, Java, Python |
+| **Bases de Datos** | MySQL, PostgreSQL, SQLite, Prisma |
+| **Sistemas & Seguridad** | Linux, Docker, Ciberseguridad en IT, Redes (Cisco/Virtualización) |
+
+<h2 align="left">📫 Conecta conmigo</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andoni-garcia-torres-86a454335)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andonigt04@gmail.com)
 
 <h2 align="left">I code with</h2>
 
