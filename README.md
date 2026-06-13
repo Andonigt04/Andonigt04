@@ -24,7 +24,7 @@ Full Stack application developed during my professional internship.
 * **Real-World Impact:** Solved specific business needs by implementing a production-ready web platform.
 * **Full Stack Logic:** Built with a focus on maintainability, secure database management, and efficient server-side logic.
 
-#### [Haruka Engine](https://github.com/Andonigt04/haruka) ✈️
+#### [Haruka Engine](https://github.com/Andonigt04/haruka-cpp) ✈️
 A custom C++/OpenGL graphics engine built from the ground up.
 * **High Precision:** Implemented a dual-coordinate system (`dvec3`) to handle planetary scales without floating-point jitter.
 * **Advanced Rendering:** Features a Deferred Shading pipeline, PBR (Physically Based Rendering), IBL, and SSAO.
