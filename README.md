@@ -19,7 +19,7 @@ A backend project focused on reliable architecture and modern patterns.
 * **Repository Pattern:** Ensuring a clean separation between business logic and data persistence.
 * **Infrastructure:** Multi-database support (PostgreSQL/SQLite) using Prisma and real-time health monitoring dashboards.
 
-#### [Araialdea Lanean](https://github.com/Andonigt04/araialdealanean) 🏢
+#### [Araialdea Lanean](https://github.com/Andonigt04/aiaraldealanean) 🏢
 Full Stack application developed during my professional internship.
 * **Real-World Impact:** Solved specific business needs by implementing a production-ready web platform.
 * **Full Stack Logic:** Built with a focus on maintainability, secure database management, and efficient server-side logic.
